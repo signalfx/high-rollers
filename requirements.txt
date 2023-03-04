@@ -1,0 +1,12 @@
+tdigest==0.5.2.2
+numpy==1.24.2
+pydantic==1.10.5
+pyprobables==0.5.6
+sortedcontainers==2.4.0
+pandas==1.5.3
+pytest==7.2.1
+matplotlib==3.7.0
+tqdm==4.64.1
+pathlib==1.0.1
+scipy==1.10.1
+scikit-learn==1.2.1
